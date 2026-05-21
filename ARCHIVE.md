@@ -35,8 +35,8 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\verify.ps1 -Instal
 
 - 本地仓库分支：`main`
 - 本地发布标签：`v0.1.0`
-- 计划远程仓库：`https://github.com/zxcvbnm12138/antigravity-zh-cn.git`
-- 当前远程状态：GitHub 返回 `Repository not found`，需要先创建远程仓库后再 push。
+- 远程仓库：`https://github.com/zxcvbnm12138/antigravity-zh-cn.git`
+- 当前远程状态：已推送 `main` 分支和 `v0.1.0` 标签。
 - 默认安装目录：`C:\Users\11720\AppData\Local\Programs\antigravity`
 - 备份目录：`C:\Users\11720\AppData\Local\Programs\antigravity\resources\antigravity-zh-cn\backups`
 - 安装清单：`C:\Users\11720\AppData\Local\Programs\antigravity\resources\antigravity-zh-cn\manifest.json`
